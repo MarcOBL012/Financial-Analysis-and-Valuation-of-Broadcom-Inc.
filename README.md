@@ -1,5 +1,3 @@
-# Financial-Analysis-and-Valuation-of-Broadcom-Inc.
-
 # Financial Analysis and Valuation of Broadcom Inc. (AVGO) 📊🚀
 
 This repository contains a project focused on financial analysis, financial statement projection, and corporate valuation of **Broadcom Inc. (AVGO)**. The study utilizes historical data (2017-2024) to generate projections up to the year 2029 by leveraging Deep Learning models (**LSTM**) and traditional valuation methods (**DCF**).
