@@ -75,3 +75,9 @@ The notebook generates visualizations comparing:
 Finally, it provides a calculation of the stock's intrinsic value based on the projected cash flows.
 
 ---
+
+
+## 📬 Contact
+If you use or extend this project, please add a note in the README or contact:
+
+Marco Obispo — marco.obispo.l@uni.pe
